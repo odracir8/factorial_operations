@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ricardo.costa.ribeiro@gmail.com"]
 
   spec.summary       = %q{Make factorial operations}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/odracir8/factorial_operations"
   spec.description = <<END
 Provides the following methods:
 * Calculate
